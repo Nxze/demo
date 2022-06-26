@@ -6,5 +6,7 @@ def hello():
 
     time.sleep(1)
 
+    print("So now, theoretically, I should be able to do things and commit them later.")
+
 
 hello()
