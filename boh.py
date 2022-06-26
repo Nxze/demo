@@ -10,5 +10,7 @@ def hello():
     
     print("Sorry mate, I'm here just to bother you:(")
 
+    print("Hi there")
+
 
 hello()
