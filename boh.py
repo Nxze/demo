@@ -9,6 +9,11 @@ def hello():
     print("So now, theoretically, I should be able to do things and commit them later.")
     
     print("Sorry mate, I'm here just to bother you:(")
+    
+    
+    
+    
+    print("Also hi there")
 
     print("Hi there")
 
